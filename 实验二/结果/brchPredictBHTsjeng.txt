@@ -1,0 +1,5 @@
+takenCorrect: 175251421
+takenIncorrect: 13227625
+notTakenCorrect: 284272282
+nnotTakenIncorrect: 13538372
+Precision: 94.4959
